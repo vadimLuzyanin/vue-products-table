@@ -1,4 +1,6 @@
-# products-table
+# vue-products-table
+
+idaproject test task (vue.js table component) 
 
 ## Project setup
 ```
